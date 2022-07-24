@@ -28,7 +28,6 @@ features = ["errhandlingapi", "sysinfoapi"]
 [dev-dependencies]
 criterion = "0.3.0"
 matches = ">=0"
-vmm-sys-util = ">= 0.4.0"
 
 [[bench]]
 name = "main"
